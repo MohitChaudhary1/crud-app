@@ -1,0 +1,19 @@
+.todoList {
+    margin-top: 20px;
+}
+
+.todoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.todoActions {
+    display: flex;
+    gap: 10px;
+}
